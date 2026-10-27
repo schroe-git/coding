@@ -1,0 +1,4 @@
+# Betriebssystem- und Editor-Dateien
+.DS_Store
+Thumbs.db
+.vscode/
