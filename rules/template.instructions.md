@@ -1,5 +1,5 @@
 ---
-description: Kurzbeschreibung, wann diese Regel gilt
+description: "Kurzbeschreibung, wann diese Regel gilt"
 applyTo: "**/*"
 ---
 

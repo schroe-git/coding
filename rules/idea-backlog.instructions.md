@@ -1,5 +1,5 @@
 ---
-description: Verarbeitet mit „Idee:“ markierte Vorschläge ohne sie umzusetzen und hält sie für später fest
+description: "Bei Nachrichten mit Idee: Vorschlaege analysieren und im Backlog vormerken, nicht umsetzen"
 applyTo: "**/*"
 ---
 

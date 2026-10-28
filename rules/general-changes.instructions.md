@@ -1,5 +1,5 @@
 ---
-description: Beispiel für klare und sichere Änderungen
+description: "Allgemeine Regeln fuer klare, sichere und ueberpruefbare Codeaenderungen"
 applyTo: "**/*"
 ---
 

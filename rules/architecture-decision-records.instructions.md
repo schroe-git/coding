@@ -1,5 +1,5 @@
 ---
-description: Dokumentiert wesentliche Architekturentscheidungen nachvollziehbar als ADRs
+description: "Bei wesentlichen Architekturentscheidungen nachvollziehbare ADRs dokumentieren"
 applyTo: "**/*"
 ---
 
